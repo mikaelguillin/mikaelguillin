@@ -1,6 +1,6 @@
 ### Hi there, I'm Mikael 👋
 
-#### I'm a Senior Front-End Engineer
+I'm a Senior Front-End Engineer with over 10 years of professional experience delivering web solutions across various industries including event management, IT consulting, insurance, and web agencies.
 
 ##### Technical skills
 
